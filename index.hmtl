@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JAYED</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: 'Courier New', monospace;
+    }
+
+    .container {
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 4em;
+      color: white;
+      text-shadow: 0 0 20px cyan;
+      margin: 0;
+      letter-spacing: 5px;
+    }
+
+    .typewriter {
+      color: #0f0;
+      font-size: 1.3em;
+      border-right: 2px solid #0f0;
+      overflow: hidden;
+      white-space: nowrap;
+      animation: typing 3s steps(50, end), blink 0.5s infinite;
+      display: inline-block;
+      margin-top: 20px;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>JAYED</h1>
+    <div class="typewriter">First year CSE student | Learning C</div>
+  </div>
+</body>
+</html
