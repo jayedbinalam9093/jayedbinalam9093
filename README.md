@@ -4,6 +4,6 @@
 
 #### new programmer • still learning • long way to go
 
-❄ first year CSE, learning C — chilling bone edition
+❄ first year CSE, learning C 
 
 </div>
