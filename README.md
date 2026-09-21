@@ -12,9 +12,7 @@ First-year CSE. Learning C and focused on problem solving. Passionate about gami
 
 
 
-### 📊 GitHub Contributions
-![Jayed's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite)
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=graywhite)
+
 
 ### 📩 REACH ME
 **Email:** jayedbinalam9093@gmail.com
